@@ -85,4 +85,6 @@ RUN
 **YOU CAN MAKE CHANGES IN THE DOCKERFILE and FLASK APP, when you rebuild it will only make changes to layers that need changes**
 
 
+> Docker github has some great resources to learn more 
 
+> [DOCKER LABS](https://github.com/docker/labs/blob/master/beginner/chapters/alpine.md)
